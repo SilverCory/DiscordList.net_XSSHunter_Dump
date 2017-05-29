@@ -6,7 +6,7 @@
 ### What?
 XSS (Cross Site Scripting) is a exploit caused by unsanitised user inputs. It allows for html to be injected on a page, that's fine and not really insecure for normal HTML tags, however it also allows for Javascipt to be ran.
 
-Javascript has the ability to do so much, and pretend to be you. From [deleting all the bots](https://www.youtube.com/watch?v=QvXxtSNi8Jc), to a simple alert. Not only that, but privacy is compromised.
+Javascript has the ability to do so much, and pretend to be you. From [deleting all the bots](https://www.youtube.com/watch?v=QvXxtSNi8Jc&t=50), to a simple alert. Not only that, but privacy is compromised.
 
 ### How to fix it?
 For different languages, there's different ways. I, and a few others, have discussed ways of fixing this with the developer/owner of this site. This was 2 months ago.
