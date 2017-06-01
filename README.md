@@ -1,7 +1,7 @@
 # XSSDump
 
 ### UPDATES
-01 June 2017 | 22:37 UTC | 02fe4660af44ec87f5182b47d70f1e870f0c80fa
+01 June 2017 | 22:37 UTC | 02fe466
 
 ### Why?
 2 months have now passed and it's not fixed. Not only that but the XSSHunter script that's on there has not been removed! It's causing a large amount of spam to my email.
@@ -36,7 +36,8 @@ There's also a few headers, and cookie flags you can use, like `same origin head
   - some noob..
   - Literally a child could do these types of attacks.
 
-See 02fe4660af44ec87f5182b47d70f1e870f0c80fa
+See 02fe466
+
 ![Conversation](https://i.imgur.com/V69xZV4.png)
 
 ### Where?
