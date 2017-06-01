@@ -1,5 +1,8 @@
 # XSSDump
 
+### UPDATES
+01 June 2017 | 22:37 UTC | 02fe4660af44ec87f5182b47d70f1e870f0c80fa
+
 ### Why?
 2 months have now passed and it's not fixed. Not only that but the XSSHunter script that's on there has not been removed! It's causing a large amount of spam to my email.
 
@@ -28,11 +31,13 @@ There's also a few headers, and cookie flags you can use, like `same origin head
 
 ### Who?
 - author of the site:
-  - I won't shame them yet. Another month passes and I will sure.
+  - Silicon Valley#9078 (141019314756124672)
 - me:
   - some noob..
   - Literally a child could do these types of attacks.
 
+See 02fe4660af44ec87f5182b47d70f1e870f0c80fa
+![Conversation](https://i.imgur.com/V69xZV4.png)
 
 ### Where?
 http://discordlist.net/
